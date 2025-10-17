@@ -1,0 +1,11 @@
+{
+  "input_dim": 30,
+  "class_names": [
+    "Benign",
+    "Malignant"
+  ],
+  "trained_at": "2025-10-06T12:57:27.682014",
+  "model_type": "Deep Neural Network",
+  "framework": "TensorFlow/Keras",
+  "dataset": "BUSI-WHU Breast Cancer"
+}
