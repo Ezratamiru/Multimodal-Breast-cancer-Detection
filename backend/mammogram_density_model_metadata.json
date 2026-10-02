@@ -1,0 +1,11 @@
+{
+  "img_size": [
+    224,
+    224
+  ],
+  "mode": "regression",
+  "trained_at": "2025-10-06T13:27:25.060022",
+  "model_type": "CNN (MobileNetV2)",
+  "framework": "TensorFlow/Keras",
+  "dataset": "Mammogram Density Assessment"
+}

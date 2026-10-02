@@ -1,0 +1,2 @@
+# This directory will contain sample medical images
+# For the prototype, we'll use placeholder images or you can add real sample images here
